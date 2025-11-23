@@ -34,7 +34,7 @@ Since Tkinter is a built-in Python library, installation is simple:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/evgenreva1986-cmd/GUI_calculator.git]
+    git clone https://github.com/evgenreva1986-cmd/GUI_calculator.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
